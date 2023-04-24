@@ -1,0 +1,2 @@
+{"message":"No metadata is generated for NugetTestConsole.","source":"MetadataCommand.ExtractMetadata","date_time":"2023-04-24T13:26:35.9415916Z","message_severity":"warning","correlation_id":"FF14CECE-F82E-406E-93E7-D26870A8B706.1.1.11"}
+{"message":"No metadata is generated for NugetTestConsole.","source":"MetadataCommand.ExtractMetadata","date_time":"2023-04-24T13:27:37.5628731Z","message_severity":"warning","correlation_id":"FB997244-9C69-4746-A54A-0EDF8C38962B.1.1.180"}
